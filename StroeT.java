@@ -1,5 +1,3 @@
-package bha;
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
@@ -212,7 +210,7 @@ class StudentDetails {
 }
 
 // Main class
-public class StroeT {
+public class Stud {
     public static void main(String[] args) {
         StudentDetails s = new StudentDetails();
         Scanner sc = new Scanner(System.in);
